@@ -35,6 +35,14 @@
 *.i*86
 *.x86_64
 *.hex
+*.bin
+
+*.lst
+
+
+# OS Generated files
+.DS_Store
+Thumbs.db
 
 # Debug files
 *.dSYM/
